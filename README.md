@@ -5,11 +5,11 @@
 #		11/28/2013
 #
 #
-
+<html>
 <p>This is application will provide the end user with 256 bit encryption
 via the RC4 stream cipher. Currently, the app is still being tested and
 debugged, but it will be available in the app stores soon! Stay tuned 
 for more details.</p>
-
+</html>
 Jason Balthis
 11/28/2013
