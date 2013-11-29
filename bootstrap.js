@@ -7,7 +7,7 @@
 // License:   Dual licensed under the MIT or GPL Version 2 licenses.
 //            http://github.com/mwaylabs/The-M-Project/blob/master/MIT-LICENSE
 //            http://github.com/mwaylabs/The-M-Project/blob/master/GPL-LICENSE
-// ==========================================================================
+// =========================================================================
 
 $(document).bind("mobileinit", function(){
     /* redirect app, if there is already a location hash */
