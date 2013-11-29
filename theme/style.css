@@ -1,3 +1,9 @@
+ /*
+ 
+	style.css - custom styles for the n0id crypto-messaging app
+
+*/
+
 .header-label {
 	margin: 5px 0px 5px 5px;
 	font-size: 50px;	
@@ -6,7 +12,6 @@
 .header-logo {
 	margin-right: 40px;
 }
-
 
 input.form-item {
 	font-size: 22px;
@@ -18,8 +23,8 @@ input.form-item {
 }
 
 textarea.form-item.ui-shadow-inset {
-    font-size: 22px;
-    height: 180px;
+	font-size: 22px;
+	height: 180px;
 	background-color: #e9e9e9;
 	box-shadow: inset 0px 0px 10px #0a0a0a;
 	padding: 5px;
@@ -43,19 +48,19 @@ textarea.form-item.ui-shadow-inset {
 	padding-top:13px;
 	height: 37px ;
 	border-top: 1px #ffffff solid;
-    border-bottom: 1px #ffffff solid;
-    color: #dddddd;
+	border-bottom: 1px #ffffff solid;
+	color: #dddddd;
 }
 
 div.container .column1, div.container .column2, div.container .column3 {
-    float: left;
-    width:33%;
-    height: 50px;
-    text-align:center;
+	float: left;
+	width:33%;
+	height: 50px;
+	text-align:center;
 }
 
 div.container .column2{
-  	border-left: 2px #555555 solid;
-  	border-right: 2px #555555 solid;
+	border-left: 2px #555555 solid;
+	border-right: 2px #555555 solid;
 }
 
